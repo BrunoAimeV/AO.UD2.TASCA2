@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="2450" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Nov 22 09:39:47 2024
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Bruno Aimé</m>
+<m key="dc.date">Fri Nov 22 09:39:47 2024
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="2424" last-saved="1732264787" uid="b0210bbe-a8a7-11ef-9e54-e27ea5d6a8d4">
+<version id="1" started="1732264787" uid="54df18f8-a8ad-11ef-9e54-e27ea5d6a8d4" auto="0" top-xid="2450"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="landscape" width="11.692913" height="8.267717" units="in" page-scale="1.000000"/>
+<section xid="1995" props="page-margin-right:2.54cm; page-margin-footer:1.27cm; page-margin-header:1.27cm; page-margin-left:2.54cm; page-margin-top:2.54cm; page-margin-bottom:2.54cm">
+<p xid="2298" props="text-align:right; margin-left:-1.00cm">Nom empresa: can Manolito</p>
+<p xid="2305" props="text-align:right; margin-left:-1.00cm">Adreça: Carrer del Camí de Ses Vinyes</p>
+<p xid="2306" props="text-align:right; margin-left:-1.00cm">Ciutat: Maó</p>
+<p xid="2303" props="margin-left:-1.00cm"><c></c></p>
+<p xid="2304" props="margin-left:-1.00cm"><c></c>Data: 22/11/2024									NIF: <c props="font-weight:bold">B12345678</c></p>
+<p style="Normal" xid="2311" props="margin-left:-1.00cm">Número: 124346543</p>
+<p xid="2299"></p>
+<p xid="2300" props="text-indent:0.00cm; margin-left:-1.25cm"></p>
+<table xid="2426" props="table-row-heights:0.62cm/0.50cm/0.75cm/; list-tag:1">
+<cell xid="2427" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="2428" props="text-indent:1.25cm; margin-left:-1.25cm">Client: Bruno Aimé Vaca Mendoza</p>
+</cell>
+<cell xid="2430" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="2431">Comentaris:</p>
+</cell>
+<cell xid="2433" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="2434">Domicili: c/ Nova 59</p>
+</cell>
+<cell xid="2439" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="2440" props="text-indent:1.37cm; margin-left:-1.37cm">Ciutat: Alaior</p>
+</cell>
+</table>
+<p xid="2301"></p>
+<table xid="1996" props="table-column-props:1.62cm/2.87cm/1.62cm/2.25cm/2.12cm/2.50cm/3.12cm/2.50cm/2.87cm/3.50cm/; table-row-heights:0.75cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/0.50cm/; table-column-leftpos:-1.37cm; list-tag:1">
+<cell xid="1997" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="1998" props="font-family:Times New Roman; font-size:12pt; lang:es-ES; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-size:11pt">Codi</c></p>
+</cell>
+<cell xid="1999" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="2000"><c props="font-size:11pt">Article</c></p>
+</cell>
+<cell xid="2001" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p style="Normal" xid="2002"><c props="font-size:11pt">Unitats</c></p>
+</cell>
+<cell xid="2003" props="bot-attach:1; left-attach:3; right-attach:4; top-attach:0">
+<p style="Normal" xid="2004"><c props="font-size:11pt">Preu unitari</c></p>
+</cell>
+<cell xid="2005" props="bot-attach:1; left-attach:4; right-attach:5; top-attach:0">
+<p style="Normal" xid="2006"><c props="font-size:11pt">Subtotal</c></p>
+</cell>
+<cell xid="2007" props="bot-attach:1; left-attach:5; right-attach:6; top-attach:0">
+<p style="Normal" xid="2008"><c props="font-size:11pt">% Decomposte</c></p>
+</cell>
+<cell xid="2009" props="bot-attach:1; left-attach:6; right-attach:7; top-attach:0">
+<p style="Normal" xid="2010"><c props="font-size:11pt">Total decomposte</c></p>
+</cell>
+<cell xid="2011" props="bot-attach:1; left-attach:7; right-attach:8; top-attach:0">
+<p style="Normal" xid="2012"><c props="font-size:11pt">% IVA</c></p>
+</cell>
+<cell xid="2013" props="bot-attach:1; left-attach:8; right-attach:9; top-attach:0">
+<p style="Normal" xid="2014"><c props="font-size:11pt">total IVA</c></p>
+</cell>
+<cell xid="2015" props="bot-attach:1; left-attach:9; right-attach:10; top-attach:0">
+<p style="Normal" xid="2016"><c props="font-size:11pt">Total amb IVA</c></p>
+</cell>
+<cell xid="2017" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="2018"><c props="font-size:11pt">123456</c></p>
+</cell>
+<cell xid="2019" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="2020"><c props="font-size:11pt">Abric talla S</c></p>
+</cell>
+<cell xid="2021" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p style="Normal" xid="2022"><c props="font-size:11pt">2</c></p>
+</cell>
+<cell xid="2023" props="bot-attach:2; left-attach:3; right-attach:4; top-attach:1">
+<p style="Normal" xid="2024"><c props="font-size:11pt">14,99€</c></p>
+</cell>
+<cell xid="2025" props="bot-attach:2; left-attach:4; right-attach:5; top-attach:1">
+<p style="Normal" xid="2026"><c props="font-size:11pt">29.98€</c></p>
+</cell>
+<cell xid="2027" props="bot-attach:2; left-attach:5; right-attach:6; top-attach:1">
+<p style="Normal" xid="2028"><c props="font-size:11pt">5,00%</c></p>
+</cell>
+<cell xid="2029" props="bot-attach:2; left-attach:6; right-attach:7; top-attach:1">
+<p style="Normal" xid="2030"><c props="font-size:11pt">1,50€</c></p>
+</cell>
+<cell xid="2031" props="bot-attach:2; left-attach:7; right-attach:8; top-attach:1">
+<p style="Normal" xid="2032"><c props="font-size:11pt">21,00%</c></p>
+</cell>
+<cell xid="2033" props="bot-attach:2; left-attach:8; right-attach:9; top-attach:1">
+<p style="Normal" xid="2034"><c props="font-size:11pt">5,98€</c></p>
+</cell>
+<cell xid="2035" props="bot-attach:2; left-attach:9; right-attach:10; top-attach:1">
+<p style="Normal" xid="2036"><c props="font-size:11pt">34,16€</c></p>
+</cell>
+<cell xid="2037" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="2038"><c props="font-size:11pt">123465</c></p>
+</cell>
+<cell xid="2039" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="2040"><c props="font-size:11pt">Sabates talla 36</c></p>
+</cell>
+<cell xid="2041" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p style="Normal" xid="2042"><c props="font-size:11pt">1</c></p>
+</cell>
+<cell xid="2043" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
+<p style="Normal" xid="2044"><c props="font-size:11pt">29,15€</c></p>
+</cell>
+<cell xid="2045" props="bot-attach:3; left-attach:4; right-attach:5; top-attach:2">
+<p style="Normal" xid="2046"><c props="font-size:11pt">29,15€</c></p>
+</cell>
+<cell xid="2047" props="bot-attach:3; left-attach:5; right-attach:6; top-attach:2">
+<p style="Normal" xid="2048"><c props="font-size:11pt">3,00%</c></p>
+</cell>
+<cell xid="2049" props="bot-attach:3; left-attach:6; right-attach:7; top-attach:2">
+<p style="Normal" xid="2050"><c props="font-size:11pt">0,87€</c></p>
+</cell>
+<cell xid="2051" props="bot-attach:3; left-attach:7; right-attach:8; top-attach:2">
+<p style="Normal" xid="2052"><c props="font-size:11pt">21,00%</c></p>
+</cell>
+<cell xid="2053" props="bot-attach:3; left-attach:8; right-attach:9; top-attach:2">
+<p style="Normal" xid="2054"><c props="font-size:11pt">5,94€</c></p>
+</cell>
+<cell xid="2055" props="bot-attach:3; left-attach:9; right-attach:10; top-attach:2">
+<p style="Normal" xid="2056"><c props="font-size:11pt">34,21€</c></p>
+</cell>
+<cell xid="2057" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="2058"><c props="font-size:11pt">123654</c></p>
+</cell>
+<cell xid="2059" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="2060"><c props="font-size:11pt">Llibre de text</c></p>
+</cell>
+<cell xid="2061" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p style="Normal" xid="2062"><c props="font-size:11pt">3</c></p>
+</cell>
+<cell xid="2063" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
+<p style="Normal" xid="2064"><c props="font-size:11pt">25,66€</c></p>
+</cell>
+<cell xid="2065" props="bot-attach:4; left-attach:4; right-attach:5; top-attach:3">
+<p style="Normal" xid="2066"><c props="font-size:11pt">76,98€</c></p>
+</cell>
+<cell xid="2067" props="bot-attach:4; left-attach:5; right-attach:6; top-attach:3">
+<p style="Normal" xid="2068"><c props="font-size:11pt">10,00%</c></p>
+</cell>
+<cell xid="2069" props="bot-attach:4; left-attach:6; right-attach:7; top-attach:3">
+<p style="Normal" xid="2070"><c props="font-size:11pt">7,70€</c></p>
+</cell>
+<cell xid="2071" props="bot-attach:4; left-attach:7; right-attach:8; top-attach:3">
+<p style="Normal" xid="2072"><c props="font-size:11pt">10,00%</c></p>
+</cell>
+<cell xid="2073" props="bot-attach:4; left-attach:8; right-attach:9; top-attach:3">
+<p style="Normal" xid="2074"><c props="font-size:11pt">6,93€</c></p>
+</cell>
+<cell xid="2075" props="bot-attach:4; left-attach:9; right-attach:10; top-attach:3">
+<p style="Normal" xid="2076"><c props="font-size:11pt">76,21€</c></p>
+</cell>
+<cell xid="2077" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="2078"><c props="font-size:11pt">124356</c></p>
+</cell>
+<cell xid="2079" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p style="Normal" xid="2080"><c props="font-size:11pt">Patates</c></p>
+</cell>
+<cell xid="2081" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
+<p style="Normal" xid="2082"><c props="font-size:11pt">5</c></p>
+</cell>
+<cell xid="2083" props="bot-attach:5; left-attach:3; right-attach:4; top-attach:4">
+<p style="Normal" xid="2084"><c props="font-size:11pt">0,85€</c></p>
+</cell>
+<cell xid="2085" props="bot-attach:5; left-attach:4; right-attach:5; top-attach:4">
+<p style="Normal" xid="2086"><c props="font-size:11pt">4,25€</c></p>
+</cell>
+<cell xid="2087" props="bot-attach:5; left-attach:5; right-attach:6; top-attach:4">
+<p style="Normal" xid="2088"><c props="font-size:11pt"></c></p>
+</cell>
+<cell xid="2089" props="bot-attach:5; left-attach:6; right-attach:7; top-attach:4">
+<p style="Normal" xid="2090"><c props="font-size:11pt"></c></p>
+</cell>
+<cell xid="2091" props="bot-attach:5; left-attach:7; right-attach:8; top-attach:4">
+<p style="Normal" xid="2092"><c props="font-size:11pt">4,00%</c></p>
+</cell>
+<cell xid="2093" props="bot-attach:5; left-attach:8; right-attach:9; top-attach:4">
+<p style="Normal" xid="2094"><c props="font-size:11pt">0,17€</c></p>
+</cell>
+<cell xid="2095" props="bot-attach:5; left-attach:9; right-attach:10; top-attach:4">
+<p style="Normal" xid="2096"><c props="font-size:11pt">4,42€</c></p>
+</cell>
+</table>
+<table xid="2315" props="table-column-props:4.87cm/4.87cm/4.87cm/4.87cm/5.49cm/; table-column-leftpos:-1.37cm; list-tag:1">
+<cell xid="2316" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="2317" props="text-indent:0.00cm; margin-left:0.00cm">Import brut</p>
+</cell>
+<cell xid="2319" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="2320">Total Descomptes</p>
+</cell>
+<cell xid="2322" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p style="Normal" xid="2323">Tipus IVA</p>
+</cell>
+<cell xid="2325" props="bot-attach:1; left-attach:3; right-attach:4; top-attach:0">
+<p style="Normal" xid="2326">Base imponible</p>
+</cell>
+<cell xid="2328" props="bot-attach:1; left-attach:4; right-attach:5; top-attach:0">
+<p style="Normal" xid="2329">Import IVA</p>
+</cell>
+<cell xid="2331" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="2332" props="text-align:center">0,17€</p>
+<p style="Normal" xid="2378" props="text-align:center"><c></c>140,36€</p>
+</cell>
+<cell xid="2334" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="2335"><c></c></p>
+<p style="Normal" xid="2377" props="text-align:center"><c></c>10,07€</p>
+</cell>
+<cell xid="2337" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p style="Normal" xid="2338">4%</p>
+</cell>
+<cell xid="2340" props="bot-attach:2; left-attach:3; right-attach:4; top-attach:1">
+<p style="Normal" xid="2341">4,25€</p>
+</cell>
+<cell xid="2343" props="bot-attach:2; left-attach:4; right-attach:5; top-attach:1">
+<p style="Normal" xid="2344">0,17€</p>
+</cell>
+<cell xid="2352" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p style="Normal" xid="2353">10%</p>
+</cell>
+<cell xid="2355" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
+<p style="Normal" xid="2356">69,28€</p>
+</cell>
+<cell xid="2358" props="bot-attach:3; left-attach:4; right-attach:5; top-attach:2">
+<p style="Normal" xid="2359">6,93€</p>
+</cell>
+<cell xid="2368" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p style="Normal" xid="2369">21%</p>
+</cell>
+<cell xid="2371" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
+<p style="Normal" xid="2372">56,76€</p>
+</cell>
+<cell xid="2374" props="bot-attach:4; left-attach:4; right-attach:5; top-attach:3">
+<p style="Normal" xid="2375">11,92€</p>
+</cell>
+<cell xid="2379" props="bot-attach:7; left-attach:0; right-attach:2; top-attach:4">
+<p style="Normal" xid="2380">Forma de pagament:</p>
+</cell>
+<cell xid="2385" props="bot-attach:7; left-attach:2; right-attach:4; top-attach:4">
+<p style="Normal" xid="2386" props="text-align:center"><c></c></p>
+<p style="Normal" xid="2424" props="text-align:center"><c props="font-size:16pt">TOTAL FACTURA</c></p>
+</cell>
+<cell xid="2391" props="bot-attach:5; left-attach:4; right-attach:5; top-attach:4">
+<p style="Normal" xid="2392"><c></c></p>
+</cell>
+<cell xid="2447" props="bot-attach:6; left-attach:4; right-attach:5; top-attach:5">
+<p style="Normal" xid="2448"><c></c></p>
+</cell>
+<cell xid="2449" props="bot-attach:7; left-attach:4; right-attach:5; top-attach:6">
+<p style="Normal" xid="2450">149,31€</p>
+</cell>
+</table>
+<p style="Normal" xid="2297"></p>
+</section>
+</abiword>

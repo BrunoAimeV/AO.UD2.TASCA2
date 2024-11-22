@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="215" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.5" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">2024-11-22T09:03:43Z</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="abiword.keywords">Europass, CV, Cedefop</m>
+<m key="dc.date">2012-10-09T22:00:00Z</m>
+<m key="dc.description">Europass CV</m>
+<m key="dc.format">application/x-abiword</m>
+<m key="dc.subject">Europass CV</m>
+<m key="dc.title">Europass CV</m>
+</metadata>
+<rdf>
+</rdf>
+<styles>
+<s type="P" name="_ECV_PersonalInfoHeading" basedon="Footnote Reference" followedby="_ECV_PersonalInfoHeading" props="font-family:Arial; dom-dir:ltr; margin-top:2pt; lang:es-ES; text-align:right; background-color:000000; widows:0; color:000000; line-height:1.0; font-size:9pt; orphans:0"/>
+<s type="C" name="Footnote Reference" basedon="None" followedby="Current Settings" props="text-position:superscript; font-size:10pt"/>
+<s type="P" name="_ECV_NameField" basedon="_ECV_RightColumn" followedby="_ECV_NameField" props="font-family:Arial; font-size:13pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_RightColumn" basedon="Table Contents" followedby="_ECV_RightColumn" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:000000; text-align:left; margin-top:3pt; widows:0; orphans:0"/>
+<s type="P" name="Table Contents" basedon="Normal" followedby="Table Contents" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Normal" followedby="Normal" props="text-indent:0in; orphans:0; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; bgcolor:transparent; lang:es-ES; dom-dir:ltr; margin-bottom:0pt; font-weight:normal; text-decoration:none; font-variant:normal; color:800000; text-position:normal; font-size:8pt; margin-right:0pt; font-style:normal; widows:0; font-family:Arial"/>
+<s type="P" name="_ECV_Comments" basedon="_ECV_Text" followedby="_ECV_Comments" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; color:ff0000; text-align:center; widows:0; orphans:0"/>
+<s type="P" name="_ECV_Text" basedon="Body Text" followedby="_ECV_Text" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Body Text" basedon="Normal" followedby="Body Text" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="_ECV_LeftHeading" basedon="Table Contents" followedby="Footnote Reference" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_ContactDetails1" basedon="_ECV_NameField" followedby="_ECV_ContactDetails1" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_GenderRow" basedon="Normal" followedby="_ECV_GenderRow" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:008080; text-align:left; margin-top:4pt; widows:0; orphans:0"/>
+<s type="P" name="_ECV_BlueBox" basedon="_ECV_NarrowSpacing" followedby="_ECV_BlueBox" props="font-family:Arial; font-size:4pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_NarrowSpacing" basedon="_ECV_RightColumn" followedby="_ECV_NarrowSpacing" props="font-family:Arial; dom-dir:ltr; margin-top:3pt; lang:es-ES; text-align:left; background-color:000000; widows:0; color:000000; line-height:1.0; font-size:4pt; orphans:0"/>
+<s type="P" name="_ECV_Date" basedon="Footnote Reference" followedby="_ECV_Date" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; background-color:000000; color:000000; text-align:right; margin-top:1pt; widows:0; orphans:0"/>
+<s type="P" name="_ECV_SubSectionHeading" basedon="_ECV_RightColumn" followedby="_ECV_SubSectionHeading" props="font-family:Arial; font-size:11pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_RightHeading" basedon="_ECV_NameField" followedby="Endnote Reference" props="font-family:Arial; font-size:7pt; dom-dir:ltr; lang:es-ES; background-color:000000; color:000000; text-align:right; margin-top:3pt; widows:0; orphans:0"/>
+<s type="C" name="Endnote Reference" basedon="None" followedby="Current Settings" props="text-position:superscript; font-size:10pt"/>
+<s type="P" name="_ECV_OrganisationDetails" basedon="_ECV_RightColumn" followedby="_ECV_OrganisationDetails" props="font-family:Arial; dom-dir:ltr; margin-top:2pt; lang:es-ES; text-align:left; color:000000; background-color:000000; widows:0; margin-bottom:4pt; font-size:9pt; orphans:0"/>
+<s type="P" name="_ECV_SectionDetails" basedon="Normal" followedby="_ECV_SectionDetails" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; background-color:000000; color:000000; text-align:left; margin-top:1pt; widows:0; orphans:0"/>
+<s type="P" name="_ECV_LeftDetails" basedon="Footnote Reference" followedby="_ECV_LeftDetails" props="font-family:Arial; dom-dir:ltr; margin-top:1pt; lang:es-ES; text-align:right; background-color:000000; widows:0; color:000000; line-height:1.0; font-size:9pt; orphans:0"/>
+<s type="P" name="_ECV_LanguageHeading" basedon="_ECV_RightColumn" followedby="_ECV_LanguageHeading" props="font-family:Arial; font-size:7pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:000080; text-align:center; widows:0; orphans:0"/>
+<s type="P" name="_ECV_LanguageSubHeading" basedon="_ECV_LanguageHeading" followedby="_ECV_LanguageSubHeading" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:center; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_LanguageName" basedon="_ECV_LanguageCertificate" followedby="_ECV_LanguageName" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:right; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_LanguageCertificate" basedon="_ECV_RightColumn" followedby="_ECV_LanguageCertificate" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:center; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_LanguageLevel" basedon="_ECV_SectionDetails" followedby="_ECV_LanguageLevel" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; background-color:000000; color:000000; text-align:center; margin-top:1pt; widows:0; orphans:0"/>
+<s type="P" name="_ECV_SectionBullet" basedon="_ECV_SectionDetails" followedby="_ECV_SectionBullet" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_LanguageExplanation" basedon="Normal" followedby="_ECV_LanguageExplanation" props="font-family:Arial; font-size:7pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_CurriculumVitae_NextPages" basedon="Endnote Text" followedby="_ECV_CurriculumVitae_NextPages" props="font-family:Arial; dom-dir:ltr; margin-top:7pt; lang:es-ES; text-align:right; background-color:000000; widows:0; tabstops:1.9688in/L,7.1875in/R; color:000000; font-size:10pt; orphans:0"/>
+<s type="P" name="Endnote Text" basedon="Normal" followedby="Current Settings" props="text-position:normal"/>
+<s type="P" name="footer" basedon="Normal" followedby="footer" props="font-family:Arial; dom-dir:ltr; lang:es-ES; text-align:left; background-color:000000; widows:0; tabstops:1.9688in/R,7.0868in/R; color:000000; line-height:1.0; font-size:8pt; orphans:0"/>
+<s type="P" name="CV Heading 3" basedon="Normal" followedby="Normal" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:right; widows:0; orphans:0"/>
+<s type="P" name="CV Major" basedon="Normal" followedby="CV Major" props="font-family:Arial; font-size:12pt; dom-dir:ltr; lang:es-ES; font-weight:bold; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Europass_SectionDetails" basedon="Normal" followedby="Europass_SectionDetails" props="font-family:Arial; dom-dir:ltr; margin-top:1pt; lang:es-ES; text-align:left; color:000000; background-color:000000; widows:0; margin-bottom:2pt; font-size:9pt; orphans:0"/>
+<s type="P" name="Footer left" basedon="Normal" followedby="Footer left" props="font-family:Arial; font-size:8pt; tabstops:3.6028in/C,7.2056in/C; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Footer right" basedon="Normal" followedby="Footer right" props="font-family:Arial; font-size:8pt; tabstops:3.6028in/C,7.2056in/C; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Frame Contents" basedon="Normal" followedby="Frame Contents" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Header and Footer" basedon="Normal" followedby="Header and Footer" props="font-family:Arial; font-size:8pt; tabstops:3.3465in/C,6.6931in/C; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Heading" basedon="Normal" followedby="Body Text" props="font-family:Arial; dom-dir:ltr; margin-bottom:6pt; margin-top:12pt; lang:es-ES; text-align:left; orphans:0; keep-with-next:yes; widows:0; color:800000; line-height:1.0; font-size:14pt"/>
+<s type="P" name="Heading 1" basedon="Footnote Text" followedby="Body Text" props="font-family:Arial; dom-dir:ltr; margin-bottom:6pt; font-weight:bold; lang:es-ES; margin-top:12pt; text-align:left; orphans:0; keep-with-next:yes; widows:0; color:800000; line-height:1.0; font-size:16pt"/>
+<s type="P" name="Heading 2" basedon="Footnote Text" followedby="Body Text" props="font-family:Arial; dom-dir:ltr; font-style:italic; font-weight:bold; lang:es-ES; margin-bottom:6pt; margin-top:12pt; text-align:left; orphans:0; keep-with-next:yes; widows:0; color:800000; line-height:1.0; font-size:14pt"/>
+<s type="P" name="Index" basedon="Normal" followedby="Index" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="List" basedon="Body Text" followedby="List" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="Table" basedon="caption11" followedby="Numbered List" props="font-family:Arial; dom-dir:ltr; font-style:italic; margin-top:6pt; lang:es-ES; margin-bottom:6pt; text-align:left; orphans:0; widows:0; color:800000; line-height:1.0; font-size:12pt"/>
+<s type="P" name="Table Heading" basedon="Table Contents" followedby="Table Heading" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; font-weight:bold; line-height:1.0; color:800000; text-align:center; widows:0; orphans:0"/>
+<s type="P" name="_ECV_1stPage" basedon="Endnote Reference" followedby="Endnote Text" props="font-family:Arial; dom-dir:ltr; margin-top:10pt; lang:es-ES; text-align:left; background-color:000000; widows:0; tabstops:1.9688in/L,7.0868in/L; color:000000; font-size:10pt; orphans:0"/>
+<s type="P" name="_ECV_Attachment" basedon="_ECV_SectionDetails" followedby="_ECV_Attachment" props="font-family:Arial; dom-dir:ltr; margin-top:1pt; lang:es-ES; text-align:right; color:000000; background-color:000000; widows:0; text-decoration:underline; font-size:9pt; orphans:0"/>
+<s type="P" name="_ECV_BusinessSctionRow" basedon="Normal" followedby="_ECV_BusinessSctionRow" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="_ECV_BusinessSector" basedon="_ECV_OrganisationDetails" followedby="_ECV_BusinessSector" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; background-color:000000; color:000000; text-align:left; margin-top:5pt; widows:0; orphans:0"/>
+<s type="P" name="_ECV_BusinessSectorRow" basedon="Normal" followedby="_ECV_BusinessSectorRow" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="_ECV_HeaderFirstPage" basedon="header" followedby="_ECV_HeaderFirstPage" props="font-family:Arial; font-size:10pt; tabstops:1.9688in/C,3.5438in/C,7.0875in/C; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_HeaderOtherPage" basedon="_ECV_HeaderFirstPage" followedby="_ECV_HeaderOtherPage" props="font-family:Arial; font-size:10pt; tabstops:1.9688in/C,3.5438in/C,7.0875in/C; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_HeadingBullet" basedon="Footnote Reference" followedby="_ECV_HeadingBullet" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:right; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_HeadingLine" basedon="_ECV_SubSectionHeading" followedby="_ECV_HeadingLine" props="font-family:Arial; font-size:11pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_Links" basedon="_ECV_ContactDetails1" followedby="_ECV_Links" props="font-family:Arial; text-decoration:underline; dom-dir:ltr; color:000000; lang:es-ES; font-size:9pt; text-align:left; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ECV_MiddleColumn" basedon="Table Contents" followedby="_ECV_MiddleColumn" props="font-family:Arial; font-size:10pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:000000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="_ECV_OccupationalFieldHeading" basedon="Footnote Reference" followedby="_ECV_OccupationalFieldHeading" props="font-family:Arial; dom-dir:ltr; margin-top:2pt; lang:es-ES; text-align:right; background-color:000000; widows:0; color:000000; line-height:1.0; font-size:9pt; orphans:0"/>
+<s type="P" name="_ECV_RelatedDocumentRow" basedon="_ECV_BusinessSectorRow" followedby="_ECV_RelatedDocumentRow" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; line-height:1.0; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="_ECV_SectionSpacing" basedon="_ECV_RightColumn" followedby="Bulleted List" props="font-family:Arial; dom-dir:ltr; margin-top:3pt; lang:es-ES; text-align:left; background-color:000000; widows:0; color:000000; line-height:1.0; font-size:8pt; orphans:0"/>
+<s type="P" name="_ECV_SubHeadingBullet" basedon="_ECV_LeftDetails" followedby="_ECV_SubHeadingBullet" props="font-family:Arial; font-size:9pt; dom-dir:ltr; lang:es-ES; color:000000; text-align:right; background-color:000000; widows:0; orphans:0"/>
+<s type="P" name="_ESP_1stPage" basedon="_ECV_CurriculumVitae_NextPages" followedby="_ESP_1stPage" props="font-family:Arial; dom-dir:ltr; margin-top:7pt; lang:es-ES; text-align:right; background-color:000000; widows:0; tabstops:1.9688in/L,7.1875in/R; color:000000; font-size:10pt; orphans:0"/>
+<s type="P" name="_ESP_Heading" basedon="_ESP_Text" followedby="Block Text" props="font-family:Arial; font-size:16pt; dom-dir:ltr; lang:es-ES; font-weight:bold; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="_ESP_Text" basedon="_ECV_Text" followedby="_ESP_Text" props="font-family:Arial; font-size:8pt; dom-dir:ltr; lang:es-ES; color:800000; text-align:left; widows:0; orphans:0"/>
+<s type="P" name="caption" basedon="Normal" followedby="caption" props="font-family:Arial; dom-dir:ltr; font-style:italic; margin-top:6pt; lang:es-ES; margin-bottom:6pt; text-align:left; orphans:0; widows:0; color:800000; line-height:1.0; font-size:12pt"/>
+<s type="P" name="caption1" basedon="Normal" followedby="caption1" props="font-family:Arial; dom-dir:ltr; font-style:italic; margin-top:6pt; lang:es-ES; margin-bottom:6pt; text-align:left; orphans:0; widows:0; color:800000; line-height:1.0; font-size:12pt"/>
+<s type="P" name="caption11" basedon="Normal" followedby="caption11" props="font-family:Arial; dom-dir:ltr; font-style:italic; margin-top:6pt; lang:es-ES; margin-bottom:6pt; text-align:left; orphans:0; widows:0; color:800000; line-height:1.0; font-size:12pt"/>
+<s type="P" name="header" basedon="Normal" followedby="header" props="font-family:Arial; dom-dir:ltr; lang:es-ES; text-align:left; background-color:000000; widows:0; tabstops:3.5438in/C,7.0875in/C; color:000000; line-height:1.0; font-size:8pt; orphans:0"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section header="7" header-even="6" footer="9" footer-even="8" xid="1" props="page-margin-right:0.4722in; section-restart-value:1; dom-dir:ltr; section-space-after:0.0000in; page-margin-footer:0.5903in; page-margin-header:0.5903in; page-margin-left:0.5903in; page-margin-top:1.1417in; page-margin-bottom:1.0236in">
+<table xid="2" props="table-column-props:1.9681in/5.2368in/1.9681in/5.2368in/1.9681in/5.2368in/1.9681in/5.2368in/1.9681in/5.2368in/1.9681in/5.2368in/1.9681in/5.2368in/1.9681in/5.2368in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="3" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_PersonalInfoHeading" xid="4" props="margin-top:2pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">INFORMACIÓN PERSONAL</c></p>
+</cell>
+<cell xid="5" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_NameField" xid="6" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:13pt; font-family:Arial; color:800000">Bruno Aimé Vaca Mendoza</c></p>
+</cell>
+<cell xid="7" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_Comments" xid="8" props="text-align:center; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="9" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:7; top-attach:2">
+<p style="_ECV_LeftHeading" xid="10" props="widows:0; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080"> </c></p>
+</cell>
+<cell xid="11" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_ContactDetails1" xid="12" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000"> Carretera Nova, 59, 07730 Alaior,  </c></p>
+</cell>
+<cell xid="13" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="Normal" xid="14" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="15" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="_ECV_ContactDetails1" xid="16" props="widows:0; orphans:0; tabstops:5.7069in/R; dom-dir:ltr; color:000000; text-align:left; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000"> 643 71 97 70</c><c style="_ECV_ContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:800000">   </c></p>
+</cell>
+<cell xid="17" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="Normal" xid="18" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="19" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="_ECV_ContactDetails1" xid="20" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000"> </c><c style="_ECV_InternetLink" props="lang:-none-; text-decoration:underline; font-size:9pt; font-family:Arial; color:800000">brunoaime08@gmail.com</c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000"> </c></p>
+</cell>
+<cell xid="21" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="Normal" xid="22" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="23" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_ContactDetails1" xid="24" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c style="_ECV_ContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:800000">Whatsapp </c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000"> </c></p>
+</cell>
+<cell xid="25" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:7; top-attach:6">
+<p style="Normal" xid="26" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="27" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:7; top-attach:6">
+<p style="_ECV_GenderRow" xid="28" props="text-align:left; margin-top:4pt; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"><c style="_ECV_HeadingContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:008080">Sexo</c><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:008080"> </c><c style="_ECV_ContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:800000">M</c><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:008080"> </c><c style="_ECV_HeadingContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:008080">| Fecha de nacimiento</c><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:008080"> </c><c style="_ECV_ContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:800000">20/11/2008</c><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:008080"> </c><c style="_ECV_HeadingContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:008080">| Nacionalidad</c><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:008080"> </c><c style="_ECV_ContactDetails" props="lang:-none-; font-size:10pt; font-family:Times New Roman; color:800000">Español, Boliviano</c></p>
+</cell>
+<cell xid="29" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:8; top-attach:7">
+<p style="_ECV_LeftHeading" xid="30" props="widows:0; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">OBJETIVO PROFESIONAL</c></p>
+</cell>
+<cell xid="31" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:8; top-attach:7">
+<p style="_ECV_NameField" xid="32" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:13pt; font-family:Arial; color:800000">Tècnic/a de reparació de maquinari</c></p>
+</cell>
+</table>
+<p style="_ECV_Text" xid="33" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="34" props="table-column-props:1.9688in/5.2361in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="35" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_LeftHeading" xid="36" props="widows:0; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">EDUCACIÓN Y FORMACIÓN</c></p>
+</cell>
+<cell xid="37" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_BlueBox" xid="38" props="widows:0; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:left; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Titulo de ESO</c></p>
+<p style="_ECV_BlueBox" xid="39" props="widows:0; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000"><c props="lang:es-ES; font-size:4pt; font-family:Arial; color:800000"> </c></p>
+</cell>
+</table>
+<p style="_ECV_Comments" xid="40" props="text-align:center; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="41" props="table-column-props:1.9674in/4.3312in/0.9069in/1.9674in/4.3312in/0.9069in/1.9674in/4.3312in/0.9069in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="42" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:0">
+<p style="_ECV_Date" xid="43" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:right; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">Indicar las fechas (desde - a)</c></p>
+</cell>
+<cell xid="44" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_SubSectionHeading" xid="45" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:11pt; font-family:Arial; color:000080">2020-2024</c></p>
+</cell>
+<cell xid="46" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:2; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_RightHeading" xid="47" props="margin-top:3pt; orphans:0; dom-dir:ltr; color:000000; text-align:right; widows:0; background-color:000000"><c props="lang:es-ES; font-size:7pt; font-family:Arial; color:008080">Indicar el nivel del EQF-MEC si se conoce</c></p>
+</cell>
+<cell xid="48" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="Normal" xid="49" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="50" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_OrganisationDetails" xid="51" props="margin-top:2pt; orphans:0; dom-dir:ltr; margin-bottom:4pt; color:000000; text-align:left; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">IES Josep Miquel Guardia, España </c></p>
+</cell>
+<cell xid="52" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="Normal" xid="53" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="54" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:3; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_SectionDetails" xid="55" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:left; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Indicar principales materias cursadas y/o competencias adquiridas</c></p>
+</cell>
+</table>
+<p style="_ECV_Text" xid="56" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="57" props="table-column-props:1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="58" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_LeftDetails" xid="59" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">Lengua materna</c></p>
+</cell>
+<cell xid="60" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:6; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_SectionDetails" xid="61" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:left; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Castellano</c></p>
+</cell>
+<cell xid="62" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_LeftHeading" xid="63" props="widows:0; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000"></p>
+</cell>
+<cell xid="64" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:1.000000px; right-attach:6; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_RightColumn" xid="65" props="text-align:left; margin-top:3pt; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="66" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:2">
+<p style="_ECV_LeftDetails" xid="67" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">Otros idiomas</c></p>
+</cell>
+<cell xid="68" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:1.000000px; right-attach:3; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:c0c0c0; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:1.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageHeading" xid="69" props="text-align:center; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:7pt; font-family:Arial; color:000080">COMPRENDER </c></p>
+</cell>
+<cell xid="70" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:5; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:c0c0c0; bot-color:c0c0c0; left-attach:3; left-style:1; color:000000; top-style:1; top-thickness:1.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageHeading" xid="71" props="text-align:center; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:7pt; font-family:Arial; color:000080">HABLAR </c></p>
+</cell>
+<cell xid="72" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:6; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:c0c0c0; bot-color:c0c0c0; left-attach:5; left-style:1; color:000000; top-style:1; top-thickness:1.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageHeading" xid="73" props="text-align:center; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:7pt; font-family:Arial; color:000080">EXPRESIÓN ESCRITA </c></p>
+</cell>
+<cell xid="74" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="Normal" xid="75" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="76" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:1.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="_ECV_LanguageSubHeading" xid="77" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Comprensión auditiva </c></p>
+</cell>
+<cell xid="78" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:3; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:2; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="_ECV_LanguageSubHeading" xid="79" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Comprensión de lectura </c></p>
+</cell>
+<cell xid="80" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:4; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:3; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="_ECV_LanguageSubHeading" xid="81" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Interacción oral </c></p>
+</cell>
+<cell xid="82" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:5; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:4; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="_ECV_LanguageSubHeading" xid="83" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Expresión oral </c></p>
+</cell>
+<cell xid="84" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:6; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:5; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="_ECV_RightColumn" xid="85" props="text-align:left; margin-top:3pt; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="86" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="_ECV_LanguageName" xid="87" props="text-align:right; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Catalán</c></p>
+</cell>
+<cell xid="88" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="_ECV_LanguageLevel" xid="89" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">C1</c></p>
+</cell>
+<cell xid="90" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:3; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:2; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="_ECV_LanguageLevel" xid="91" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">C2</c></p>
+</cell>
+<cell xid="92" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:4; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:3; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="_ECV_LanguageLevel" xid="93" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">B2</c></p>
+</cell>
+<cell xid="94" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:5; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:4; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="_ECV_LanguageLevel" xid="95" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">B1</c></p>
+</cell>
+<cell xid="96" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:6; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:5; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="_ECV_LanguageLevel" xid="97" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">B2</c></p>
+</cell>
+<cell xid="98" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_LanguageName" xid="99" props="text-align:right; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Inglés</c></p>
+</cell>
+<cell xid="100" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_LanguageLevel" xid="101" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">B2</c></p>
+</cell>
+<cell xid="102" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:3; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:2; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_LanguageLevel" xid="103" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">C1</c></p>
+</cell>
+<cell xid="104" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:4; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:3; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_LanguageLevel" xid="105" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">B1</c></p>
+</cell>
+<cell xid="106" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:5; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:4; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_LanguageLevel" xid="107" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">B1</c></p>
+</cell>
+<cell xid="108" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:6; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:5; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_LanguageLevel" xid="109" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">B2</c></p>
+</cell>
+</table>
+<p style="Normal" xid="110" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="111" props="table-column-props:1.9674in/5.2382in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="112" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_LeftDetails" xid="113" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">Competencias comunicativas</c></p>
+</cell>
+<cell xid="114" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="Body Text" xid="115" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:800000">- Habilitat per comprendre i processar la informació de manera efectiva.</c></p>
+<p style="Body Text" xid="116" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:800000">- Capacitat per respondre de manera assertiva i adequada segons les necessitats. </c></p>
+</cell>
+</table>
+<p style="_ECV_Text" xid="117" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="118" props="table-column-props:1.9674in/5.2382in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="119" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_LeftDetails" xid="120" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">Competencias de organización/ gestión</c></p>
+</cell>
+<cell xid="121" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="Body Text" xid="122" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:800000">- Ús d'eines digitals per organitzar i supervisar tasques (com Trello, Asana, Excel o Google Workspace)</c></p>
+<p style="Body Text" xid="123" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:800000">- Habilitat per integrar noves tecnologies en els processos de treball.</c></p>
+</cell>
+</table>
+<p style="_ECV_Text" xid="124" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="125" props="table-column-props:1.9674in/5.2382in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="126" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_LeftDetails" xid="127" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">Competencias relacionadas con el empleo</c></p>
+</cell>
+<cell xid="128" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_SectionDetails" xid="129" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:left; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Indicar competencias profesionales de su entorno laboral no descritas en otras secciones. Especificar en qué contexto se han adquirido. Ejemplo:</c></p>
+<p level="1" listid="1000" parentid="0" style="_ECV_SectionBullet" xid="130" props="widows:0; list-style:Bullet List; orphans:0; tabstops:0.0000in/L; dom-dir:ltr; start-value:1; color:000000; text-align:left; field-font:NULL; background-color:000000"><field type="list_label" xid="131" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Buena capacidad para el control de calidad (actual responsable de la auditoría de calidad en mi empresa)</c></p>
+</cell>
+</table>
+<p style="_ECV_Text" xid="132" props="text-align:left; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="133" props="table-column-props:1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/1.9674in/1.0722in/1.0403in/1.0410in/1.0417in/1.0431in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="134" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:0">
+<p style="_ECV_LeftDetails" xid="135" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:000080">Competencias digitales </c></p>
+</cell>
+<cell xid="136" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:1.000000px; right-attach:6; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:c0c0c0; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:1.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_LanguageHeading" xid="137" props="text-align:center; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:7pt; font-family:Arial; color:000080">AUTOEVALUACIÓN</c></p>
+</cell>
+<cell xid="138" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="Normal" xid="139" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="140" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:1.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_LanguageSubHeading" xid="141" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Tratamiento de la información </c></p>
+</cell>
+<cell xid="142" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:3; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:2; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_LanguageSubHeading" xid="143" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Comunicación </c></p>
+</cell>
+<cell xid="144" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:4; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:3; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_LanguageSubHeading" xid="145" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Creación de contenido </c></p>
+</cell>
+<cell xid="146" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:5; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:4; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_LanguageSubHeading" xid="147" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Seguridad </c></p>
+</cell>
+<cell xid="148" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:1.000000px; right-attach:6; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:5; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:2; top-attach:1">
+<p style="_ECV_LanguageSubHeading" xid="149" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:000080">Resolución de problemas</c></p>
+</cell>
+<cell xid="150" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="Normal" xid="151" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="152" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.500000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageLevel" xid="153" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Usuario básico</c></p>
+</cell>
+<cell xid="154" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:0.500000px; right-attach:3; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:2; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageLevel" xid="155" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Usuario independiente</c></p>
+</cell>
+<cell xid="156" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:0.500000px; right-attach:4; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:3; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageLevel" xid="157" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Usuario básico</c></p>
+</cell>
+<cell xid="158" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:0.500000px; right-attach:5; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:4; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageLevel" xid="159" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Usuario básico</c></p>
+</cell>
+<cell xid="160" props="right-thickness:0.000000px; left-color:c0c0c0; bot-style:1; bot-thickness:0.500000px; right-attach:6; left-thickness:1.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:c0c0c0; left-attach:5; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:3; top-attach:2">
+<p style="_ECV_LanguageLevel" xid="161" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:center; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Usuario independiente</c></p>
+</cell>
+<cell xid="162" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="Normal" xid="163" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="164" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:6; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:4; top-attach:3">
+<p style="_ECV_LanguageExplanation" xid="165" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:-none-; font-size:7pt; font-family:Arial; color:000080">Nivel:  usuario básico  -  usuario independiente  -  usuario competente</c></p>
+<p style="_ECV_LanguageExplanation" xid="166" props="text-align:left; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><a xlink:href="http://europass.cedefop.europa.eu/es/resources/digital-competences" xid="167"><c props="lang:es-ES; font-size:7pt; font-family:Arial; color:000080">Competencias digitales - Tabla de autoevaluación</c></a><c props="lang:es-ES; font-size:7pt; font-family:Arial; color:000080"> </c></p>
+</cell>
+<cell xid="169" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:5; top-attach:4">
+<p style="Normal" xid="170" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+</cell>
+<cell xid="171" props="right-color:000000; right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:1.000000px; right-attach:6; top-thickness:0.000000pt; right-style:1; background-color:ffffff; bg-style:1; top-color:000000; bot-color:c0c0c0; left-attach:1; left-style:1; color:000000; top-style:1; left-thickness:0.000000px; bot-attach:5; top-attach:4">
+<p style="_ECV_LanguageCertificate" xid="172" props="text-align:center; background-color:000000; color:000000; dom-dir:ltr; orphans:0; widows:0"><c props="lang:es-ES; font-size:8pt; font-family:Arial; color:800000">Indicar los certificados TIC</c></p>
+</cell>
+<cell xid="173" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_LeftDetails" xid="174" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:left; background-color:000000; widows:0"></p>
+</cell>
+<cell xid="175" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:6; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:6; top-attach:5">
+<p style="_ECV_SectionDetails" xid="176" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:left; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Indicar otras competencias informáticas. Especificar en qué contexto se han adquirido. Ejemplo:</c></p>
+<p level="1" listid="1000" parentid="0" style="_ECV_SectionBullet" xid="177" props="widows:0; list-style:Bullet List; orphans:0; tabstops:0.0000in/L; dom-dir:ltr; start-value:1; color:000000; text-align:left; field-font:NULL; background-color:000000"><field type="list_label" xid="178" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">dominio de la suite ofimática (procesador de textos, hoja de cálculo, software de presentación)</c></p>
+<p level="1" listid="1000" parentid="0" style="_ECV_SectionBullet" xid="179" props="widows:0; list-style:Bullet List; orphans:0; tabstops:0.0000in/L; dom-dir:ltr; start-value:1; color:000000; text-align:left; field-font:NULL; background-color:000000"><field type="list_label" xid="180" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">dominio de software de edición fotográfica adquirido como fotógrafo aficionado​</c></p>
+</cell>
+</table>
+<p style="Normal" xid="181" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+<table xid="182" props="table-column-props:1.9674in/5.2382in/; table-column-leftpos:0.0000in; table-line-thickness:0.8pt; table-col-spacing:0.03in; table-line-type:1; table-line-ignore:0">
+<cell xid="183" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:1; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:0; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_LeftDetails" xid="184" props="margin-top:1pt; orphans:0; dom-dir:ltr; line-height:1.0; color:000000; text-align:right; background-color:000000; widows:0"></p>
+</cell>
+<cell xid="185" props="right-thickness:0.000000px; left-color:000000; bot-style:1; bot-thickness:0.000000px; right-attach:2; left-thickness:0.000000px; right-style:1; background-color:ffffff; right-color:000000; top-color:000000; bot-color:000000; left-attach:1; left-style:1; color:000000; top-style:1; top-thickness:0.000000pt; bot-attach:1; top-attach:0">
+<p style="_ECV_SectionDetails" xid="186" props="margin-top:1pt; orphans:0; dom-dir:ltr; color:000000; text-align:left; widows:0; background-color:000000"><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">Indicar lista de documentos adjuntos a su CV. Ejemplos:</c></p>
+<p level="1" listid="1000" parentid="0" style="_ECV_SectionBullet" xid="187" props="widows:0; list-style:Bullet List; orphans:0; tabstops:0.0000in/L; dom-dir:ltr; start-value:1; color:000000; text-align:left; field-font:NULL; background-color:000000"><field type="list_label" xid="188" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">copias de diplomas y cualificaciones</c></p>
+<p level="1" listid="1000" parentid="0" style="_ECV_SectionBullet" xid="189" props="widows:0; list-style:Bullet List; orphans:0; tabstops:0.0000in/L; dom-dir:ltr; start-value:1; color:000000; text-align:left; field-font:NULL; background-color:000000"><field type="list_label" xid="190" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">certificados de trabajo o prácticas</c></p>
+<p level="1" listid="1000" parentid="0" style="_ECV_SectionBullet" xid="191" props="widows:0; list-style:Bullet List; orphans:0; tabstops:0.0000in/L; dom-dir:ltr; start-value:1; color:000000; text-align:left; field-font:NULL; background-color:000000"><field type="list_label" xid="192" props="text-decoration:none"></field><c props="text-decoration:none">	</c><c props="lang:es-ES; font-size:9pt; font-family:Arial; color:800000">publicaciones de trabajos de investigación</c></p>
+</cell>
+</table>
+<p style="Normal" xid="193" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+<p xid="194"></p>
+<p xid="195"></p>
+</section>
+<section type="header-even" id="6" xid="196">
+<p style="_ECV_CurriculumVitae_NextPages" xid="197" props="margin-top:7pt; orphans:0; tabstops:1.9688in/L,7.1875in/R; dom-dir:ltr; color:000000; text-align:right; background-color:000000; widows:0"><c props="lang:es-ES; font-size:10pt; font-family:Arial; color:008080"> 	 Currículum vítae	 Bruno Aimé Vaca Mendoza</c></p>
+<p style="Normal" xid="198" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+<p xid="199"></p>
+</section>
+<section type="header" id="7" xid="200">
+<p style="_ECV_CurriculumVitae_NextPages" xid="201" props="margin-top:7pt; orphans:0; tabstops:1.9688in/L,7.1875in/R; dom-dir:ltr; color:000000; text-align:left; background-color:000000; widows:0"><c props="lang:es-ES; font-size:10pt; font-family:Arial; color:008080">Currículum vítae	 	Bruno Aimé Vaca Mendoza </c></p>
+<p style="Normal" xid="202" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+<p xid="203"></p>
+</section>
+<section type="footer-even" id="8" xid="204">
+<p style="footer" xid="205" props="widows:0; orphans:0; tabstops:1.9688in/L,7.2049in/L; dom-dir:ltr; line-height:1.0; color:000000; text-align:left; background-color:000000"><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:00ffff">	 </c><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:008080">© Unión Europea, 2002-2017 | europass.cedefop.europa.eu 	Página</c><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:00ffff"> </c><field type="page_number" xid="206"></field><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:008080"> / </c><field type="page_count" xid="207"></field><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:00ffff"> </c></p>
+<p style="Normal" xid="208" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+<p xid="209"></p>
+</section>
+<section type="footer" id="9" xid="210">
+<p style="footer" xid="211" props="widows:0; orphans:0; tabstops:1.9688in/L,7.2049in/L; dom-dir:ltr; line-height:1.0; color:000000; text-align:left; background-color:000000"><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:00ffff">	 </c><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:008080">© Unión Europea, 2002-2017 | europass.cedefop.europa.eu 	Página</c><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:00ffff"> </c><field type="page_number" xid="212"></field><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:008080"> / </c><field type="page_count" xid="213"></field><c props="lang:es-ES; font-size:7pt; font-family:ArialMT; color:00ffff"> </c></p>
+<p style="Normal" xid="214" props="text-align:left; line-height:1.0; dom-dir:ltr; orphans:0; widows:0"></p>
+<p xid="215"></p>
+</section>
+</abiword>
